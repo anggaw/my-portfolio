@@ -1,2 +1,3 @@
-# my-portfolio
-My Professional Portfolio
+# Angga Wibisono's Portfolio
+
+My Professional Portfolio. It uses AWS and ReactJS
